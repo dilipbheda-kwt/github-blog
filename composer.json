@@ -1,0 +1,10 @@
+{
+    "name": "vendor/github-blog",
+    "description": "GitHub Blog",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": { "GH_Blog\\": "./includes" }
+    },
+    "require": {}
+}
